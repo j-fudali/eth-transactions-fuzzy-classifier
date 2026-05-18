@@ -1,0 +1,6 @@
+{
+  "name": "eth-transactions-fuzzy-classifier-api",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/eth-transactions-fuzzy-classifier-api/src",
+  "tags": []
+}

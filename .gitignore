@@ -44,3 +44,9 @@ Thumbs.db
 .claude/settings.local.json
 
 .angular
+
+### LaTeX artifacts ###
+*.log
+*.out
+*.gz
+*.aux
